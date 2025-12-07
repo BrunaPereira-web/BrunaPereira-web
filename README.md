@@ -1,16 +1,46 @@
-## Hi there 👋
+<h1 align="center">✨ Bruna Trindade Pereira ✨</h1>
 
-<!--
-**BrunaPereira-web/BrunaPereira-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Sou estudante de Análise e Desenvolvimento de Sistemas e apaixonada por tecnologia e organização de dados.<br>
+Atualmente foco meus estudos em <b>Java, Python, SQL e Git/GitHub</b>.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">📍 São Paulo - SP</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Linguagens e Tecnologias
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,mysql,git,github,html,css" />
+</p>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BrunaPereira-web&show_icons=true&theme=default&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaPereira-web&layout=compact&hide_border=true" />
+</p>
+
+
+---
+
+## 📚 Projetos em destaque
+
+- 💰 Cofrinho de Moedas (Java - POO)
+- 🚗 Sistema de Locadora de Veículos (SQL)
+- 🐍 Estruturas de Repetição em Python
+
+---
+
+## 🌐 Contatos
+
+📧 Email: [Clique aqui](mailto:trindadepereirabruna248@gmail.com)  
+💼 LinkedIn: [Clique aqui](https://www.linkedin.com/in/bruna-trindade-pereira-03b1b1246)
+
+---
+
+<p align="center">✨ Em constante evolução ✨</p>
